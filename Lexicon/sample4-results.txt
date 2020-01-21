@@ -1,0 +1,225 @@
+The Pattern : a?
+may result in the output :
+at 2
+********************************************************************
+The Pattern : a?
+may result in the output :
+at 2
+********************************************************************
+The Pattern : a?
+may result in the output:
+at 2
+********************************************************************
+The Pattern : ?a?
+may result in the output:
+can 1
+cat 1
+day 1
+fat 1
+had 1
+has 2
+hat 1
+man 2
+map 1
+mat 1
+may 1
+was 1
+********************************************************************
+The Pattern : ?a
+may result in the output:
+No words in the lexicon match the pattern
+********************************************************************
+The Pattern : ?a*
+may result in the output:
+can 1
+cat 1
+daughters 1
+day 1
+families 1
+fat 1
+had 1
+has 2
+hat 1
+have 2
+jane 1
+lady 1
+last 1
+made 1
+man 2
+map 1
+mat 1
+may 1
+park 1
+said 1
+taken 1
+want 3
+was 1
+yaks 2
+********************************************************************
+The Pattern : *a?
+may result in the output:
+at 2
+can 1
+cat 1
+day 1
+dear 1
+fat 1
+had 1
+has 2
+hat 1
+man 2
+map 1
+mat 1
+may 1
+that 4
+was 1
+zebras 2
+********************************************************************
+The Pattern : *a*
+may result in the output:
+a 11
+about 1
+acknowledged 1
+all 1
+also 1
+and 6
+answer 1
+at 2
+austen 1
+can 1
+cat 1
+chapter 1
+daughters 1
+day 1
+dear 1
+families 1
+fat 1
+had 1
+has 2
+hat 1
+have 2
+heard 1
+hearing 1
+impatiently 1
+invitation 1
+jane 1
+lady 1
+last 1
+made 1
+man 2
+map 1
+mat 1
+may 1
+park 1
+reading 1
+said 1
+taken 1
+that 4
+universally 1
+want 3
+was 1
+wearing 1
+wombats 1
+yaks 2
+zebras 2
+********************************************************************
+The Pattern : a*
+may result in the output:
+a 11
+about 1
+acknowledged 1
+all 1
+also 1
+and 6
+answer 1
+at 2
+austen 1
+********************************************************************
+The Pattern : *a
+may result in the output:
+a 11
+********************************************************************
+The Pattern : w*s
+may result in the output:
+was 1
+wombats 1
+********************************************************************
+The Pattern : w?s
+may result in the output:
+was 1
+********************************************************************
+The Pattern : ?a?e?
+may result in the output:
+taken 1
+********************************************************************
+The Pattern : *a*e*
+may result in the output:
+acknowledged 1
+answer 1
+austen 1
+chapter 1
+daughters 1
+families 1
+have 2
+impatiently 1
+jane 1
+made 1
+taken 1
+********************************************************************
+The Pattern : *a?e?
+may result in the output:
+taken 1
+********************************************************************
+The Pattern : ?a*e*
+may result in the output:
+daughters 1
+families 1
+have 2
+jane 1
+made 1
+taken 1
+********************************************************************
+The Pattern : *a*e?
+may result in the output:
+acknowledged 1
+answer 1
+austen 1
+chapter 1
+families 1
+taken 1
+********************************************************************
+The Pattern : ?a?e*
+may result in the output:
+have 2
+jane 1
+made 1
+taken 1
+********************************************************************
+The Pattern : a
+may result in the output:
+a 11
+********************************************************************
+The Pattern :  
+may result in the output:
+No words in the lexicon match the pattern
+********************************************************************
+The Pattern : hal*
+may result in the output:
+No words in the lexicon match the pattern
+********************************************************************
+The Pattern : w?s
+may result in the output:
+was 1
+********************************************************************
+The Pattern : a?
+may result in the output:
+at 2
+********************************************************************
+The Pattern : a
+may result in the output:
+a 11
+********************************************************************
+The Pattern : a?
+may result in the output:
+at 2
+********************************************************************
